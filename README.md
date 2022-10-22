@@ -8,7 +8,7 @@ Passionate about building impactful solutions and learning more!
 - 💞️ I’m looking to collaborate on NLP or computer vision projects related to pose estimation 
 - 📫 Reach out to me at pragatisingh2107@gmail.com 
 
-<p align='center'>
+<p>
 <a href="https://www.linkedin.com/in/pragati-singh21/"> <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
  </p>
 
