@@ -1,4 +1,8 @@
-<h1 align='center'> Hi :wave:,  I’m Pragati! </h1>
+<h1 align='center'> Hi :wave:,  I’m Pragati! 
+
+<p>
+<a href="https://www.linkedin.com/in/pragati-singh21/"> <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+ </p></h1>
 
 Passionate about building impactful solutions and learning more!
 
@@ -8,9 +12,6 @@ Passionate about building impactful solutions and learning more!
 - 💞️ I’m looking to collaborate on NLP or computer vision projects related to pose estimation 
 - 📫 Reach out to me at pragatisingh2107@gmail.com 
 
-<p>
-<a href="https://www.linkedin.com/in/pragati-singh21/"> <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
- </p>
 
  [![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prags21&hide=contribs,stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
